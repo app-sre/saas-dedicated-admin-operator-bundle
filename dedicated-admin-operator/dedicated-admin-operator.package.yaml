@@ -1,0 +1,4 @@
+packageName: hive-operator
+channels:
+- name: production
+  currentCSV: dedicated-admin-operator.v0.1.93-574359b
