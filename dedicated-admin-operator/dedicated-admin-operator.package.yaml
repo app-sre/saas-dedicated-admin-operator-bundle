@@ -1,4 +1,4 @@
 packageName: dedicated-admin-operator
 channels:
 - name: production
-  currentCSV: dedicated-admin-operator.v0.1.99-8321865
+  currentCSV: dedicated-admin-operator.v0.1.101-3e3280f
